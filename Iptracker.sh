@@ -4,14 +4,14 @@ banner() {
 
 clear
 printf "\e[0m\n"
-printf "\e[1;33m   _____       \e[0m\e[1;32m   _______             _             \e[0m\n"
-printf "\e[1;33m  |_   _|      \e[0m\e[1;32m  |__   __|           | |            \e[0m\n"
-printf "\e[1;33m    | |  _ __  \e[0m\e[1;32m     | |_ __ __ _  ___| | _____ _ __ \e[0m\n"
-printf "\e[1;33m    | | | '_ \ \e[0m\e[1;32m     | | '__/ _` |/ __| |/ / _ \ '__|\e[0m\n"
-printf "\e[1;33m   _| |_| |_) |\e[0m\e[1;32m     | | | | (_| | (__|   <  __/ |   \e[0m\n"
-printf "\e[1;33m  |_____| .__/ \e[0m\e[1;32m     |_|_|  \__,_|\___|_|\_\___|_|   \e[0m\n"
-printf "\e[1;32m        | |    \e[0m\e[1;32m                                     \e[0m\n"
-printf "\e[1;32m        |_|    \e[0m\e[1;32m                                     \e[0m\n"
+printf "\e[1;33m   _______             _     \e[0m\e[1;32m  _____       \e[0m\n"
+printf "\e[1;33m  |__   __|           | |    \e[0m\e[1;32m |_   _|      \e[0m\n"
+printf "\e[1;33m     | |_ __ __ _  ___| | __ \e[0m\e[1;32m   | |  _ __  \e[0m\n"
+printf "\e[1;33m     | |  __/ _  |/ __| |/ / \e[0m\e[1;32m   | | |  _ \ \e[0m\n"
+printf "\e[1;33m     | | | | (_| | (__|   <  \e[0m\e[1;32m  _| |_| |_) |\e[0m\n"
+printf "\e[1;33m     |_|_|  \__,_|\___|_|\_\ \e[0m\e[1;32m |_____| .__/ \e[0m\n"
+printf "\e[1;32m                                    | |    \e[0m\n"
+printf "\e[1;32m                                    |_|    \e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;33m    Created By Silent Programmer \e[0m\e[1;31m(\e[0m\e[1;33m Tanmay Tiwari \e[0m\e[1;31m)\e[0m\n"
 
