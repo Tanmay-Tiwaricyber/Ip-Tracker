@@ -1,6 +1,6 @@
 ### <<< If you copy , Then Give me The Credits >>>
 <p align="left">
-<a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in India" src="https://img.shields.io/badge/MADE%20IN-INDIA-blue"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
@@ -12,9 +12,8 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/tanmay-Tiwaricyber/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tanmay-Tiwaricyber?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tanmay-Tiwaricyber/Ip-Tracker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/track-ip?color=red&style=flat-square"></a>
+<a href="https://github.com/Tanmay-Tiwaricyber/Ip-Tracker/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/Ip-Tracker?color=red&style=flat-square"></a>
 
-<a href="https://github.com/Tanmay-Tiwaricyber/Ip-Tracker/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tanmay-Tiwaricyber/Ip-Tracker?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
