@@ -20,7 +20,7 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/Tanmay-Tiwaricyber/Ip-Tracker.git`
+* `git clone https://github.com/Tanmay-Tiwaricyber/Ip-Tracker.git`
 * `cd Iptracker`
 
 #### > Run : `bash Iptracker.sh`
@@ -31,7 +31,7 @@ apt update ; apt install git curl -y ; git clone https://github.com/Tanmay-Tiwar
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
+<img src="https://github.com/Tanmay-Tiwaricyber/Ip-Tracker/blob/main/Screenshot.png"/>
 
 
 
